@@ -1,13 +1,13 @@
 //===================[ PEMBUAT SCRIPT ]=====================\\
-global.pembuat = ["ғᴀʟʟᴢx-ɪɴғɪɴɪᴛʏ"]
-global.versinya = ['\`ᴠ1.6 ᴘʀᴏ\`']
+global.pembuat = ["4K.iraaaa"]
+global.versinya = ['\`16 pro max\`']
 //===================[ OWNER ]=====================\\
 global.owner = [
-  "6285813708397", //ganti nomor owner
-  "" //nomor owner kedua kalo ada
+  "6283899394490", //ganti nomor owner
+  "6285929874600" //nomor owner kedua kalo ada
 ]
-global.botname = ["ʜɪʟʟᴀʀʏ ᴍᴅ"]
-global.botnumber = ["6288-xxxxc-xxxx-xx3"]
+global.botname = ["414124 MD"]
+global.botnumber = ["6283899394490"]
 global.websitex = ['https://myportfolio-nu-dusky.vercel.app/']
 
 //===================[ GROUP AND SALURAN ]=====================\\
